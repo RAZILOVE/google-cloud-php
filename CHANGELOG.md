@@ -1,5 +1,17 @@
 # Changelog
 
+## 0.247.0
+
+<details><summary>google/cloud-spanner 1.79.0</summary>
+
+
+
+### Features
+
+* **spanner:** Add PG.OID type support for parameterized queries ([#6788](https://github.com/googleapis/google-cloud-php/issues/6788)) ([273683d](https://github.com/googleapis/google-cloud-php/commit/273683d22dce24ac7500e9744d939832ed337bb2))
+
+</details>
+
 ## 0.246.0
 
 <details><summary>google/cloud-bigtable 1.32.0</summary>
